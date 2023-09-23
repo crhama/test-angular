@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Monia Application!!! from my first branch';
+  title = 'Monia Application!!! from my second branch';
+  testMessage = 'This is a test message';
 }
